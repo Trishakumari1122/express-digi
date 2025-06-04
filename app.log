@@ -3,3 +3,4 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"25.956\"}","timestamp":"2025-06-04T09:21:13.193Z"}
 {"level":"\u001b[33mwarn\u001b[39m","message":"A post request is made to add a new tea","timestamp":"2025-06-04T09:22:13.824Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"12.685\"}","timestamp":"2025-06-04T09:22:13.851Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"7.758\"}","timestamp":"2025-06-04T09:23:02.794Z"}
